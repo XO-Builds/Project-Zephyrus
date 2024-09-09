@@ -28,6 +28,8 @@ Privacy: Project-Zephyrus helps keep your Data Private with Camera & Microphone 
 
 *DOWNLOAD COUNT BY RELEASE DATE*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/XO-Builds/Project-Zephyrus/14.3-20240909-1002/total.svg)](https://github.com/XO-Builds/ProtonAOSP/releases)
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/XO-Builds/Project-Zephyrus/12.5.2-20220421/total.svg)](https://github.com/XO-Builds/ProtonAOSP/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/XO-Builds/Project-Zephyrus/12.0.0-20211209/total.svg)](https://github.com/XO-Builds/ProtonAOSP/releases)
